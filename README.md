@@ -146,7 +146,7 @@ Instale as dependências:
 Na pasta do projeto, execute:
     python -m streamlit run dashboard.py
 
-ou execute diretamente do streamlit
+ou execute diretamente do streamlit pelo endreço: https://dashboardacoeb3.streamlit.app/
 
 
 O projeto está em desenvolvimento e serve como exercício prático de estudo do mercado financeiro e construção de um portfólio de análises.
