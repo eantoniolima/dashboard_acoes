@@ -149,8 +149,4 @@ Na pasta do projeto, execute:
 ou execute diretamente do streamlit
 
 
-OBSERVAÇÕES SOBRE OS DADOS
-
-O parâmetro end do download é exclusivo. Na consulta do Ibovespa, usar o último índice das ações como end pode deixar o índice sem o último pregão disponível para as ações. Uma comparação rigorosa exige alinhar as datas das séries.
-
 O projeto está em desenvolvimento e serve como exercício prático de estudo do mercado financeiro e construção de um portfólio de análises.
